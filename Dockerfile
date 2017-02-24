@@ -31,6 +31,7 @@ RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key
 ADD SeleniumGridExtras.jar /opt/selenium/selenium-server-standalone.jar
 ADD hub_4444.json /opt/selenium/hub_4444.json
 ADD node_5555.json /opt/selenium/node_5555.json
+ADD node_5556.json /opt/selenium/node_5556.json
 ADD selenium_grid_extras_config.json /opt/selenium/selenium_grid_extras_config.json
 ADD entry_point.sh /opt/bin/entry_point.sh
 
