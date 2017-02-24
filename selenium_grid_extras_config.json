@@ -28,7 +28,8 @@
       "version": "2.52.0"
     },
     "node_config_files": [
-      "node_5555.json"
+      "node_5555.json",
+      "node_5556.json"
     ]
   }
 }

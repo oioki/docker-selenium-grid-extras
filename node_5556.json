@@ -11,7 +11,7 @@
   "configuration": {
     "proxy": "com.groupon.seleniumgridextras.grid.proxies.SetupTeardownProxy",
     "maxSession": 5,
-    "port": 5555,
+    "port": 5556,
     "register": true,
     "unregisterIfStillDownAfter": 10000,
     "hubPort": 4444,
